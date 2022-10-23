@@ -22,14 +22,17 @@ Using Python, Pandas functions and methods, and SQLAlchemy, filter the date colu
 <img width="274" alt="Screen Shot 2022-10-23 at 6 58 11 PM" src="https://user-images.githubusercontent.com/111387025/197395032-de1b89e3-fb80-4d03-bdc6-718e5779ee93.png">
 <img width="319" alt="Screen Shot 2022-10-23 at 6 58 55 PM" src="https://user-images.githubusercontent.com/111387025/197395037-a8b3b660-59c1-4e3a-91ad-03ebd5b71eca.png">
 
-## Summary 
+## Summary and additional queries
 * The results indicate that the opening of the surf shop might turn out to be a good idea. 
+
+* The mean temperature, as seen through the summary statistics for the months of June and December, seems to be idle for such type of business.
+
 * However, in order to have a better insight it would be best to look at the precipitation data as well.
-Precipitation is one of the major factors affecting such kind of businesses. Therefore, an additional query can be looking at the precipitation by slightly changing the query as shown:
+Precipitation is one of the major factors affecting such kind of businesses. Therefore, an additional query can be made to look at the precipitation, by slightly changing the query as shown:
 
 <img width="1403" alt="Screen Shot 2022-10-23 at 7 07 23 PM" src="https://user-images.githubusercontent.com/111387025/197395486-aa08edf7-4bb0-4506-a3be-43a4d250ec4e.png">
 
-* Further, looking at the summary statistics for both these columns to have a better insight.
+* Further, looking at the summary statistics for both these columns- 'temperature' and 'precipitation' to have a better insight.
 
 <img width="540" alt="Screen Shot 2022-10-23 at 7 09 29 PM" src="https://user-images.githubusercontent.com/111387025/197395567-37025bce-35bb-4f1c-81d9-877a783acb74.png">
 
