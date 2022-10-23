@@ -4,7 +4,7 @@
 The analysis is primarily devoted to weather analytics, which is required to open a Surf and Shake shop. W. Avy, an investor in this business plan, who is famous for his love of surfing, asked to run some analytics on a weather data set he has from the very island which is the location to open shop, the beautiful Awahoo.
 
 ### Purpose of the analysis
-* W. Avy likes the analysis, but he wants more information about temperature trends before opening the surf shop. 
+* W. Avy through this analysis, wants more information about temperature trends before opening the surf shop. 
 * Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ### Resources
